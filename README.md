@@ -1,4 +1,4 @@
-# programming-for-languages_C
+# programming-for-Engineers_C
 C programming language project
 
 Typing of the Bombs (C Terminal Game)
